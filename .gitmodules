@@ -1,0 +1,3 @@
+[submodule "synthese/applicationTache"]
+	path = synthese/applicationTache
+	url = git@github.com:PureLeafGreen/applicationTache.git
